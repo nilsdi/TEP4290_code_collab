@@ -1,0 +1,1 @@
+exchange rates downloaded from kaggle, to €
